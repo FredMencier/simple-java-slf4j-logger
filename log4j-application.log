@@ -1,0 +1,63 @@
+2024-03-10 10:34:12 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:34:12 INFO  FinancialTest:50 - Test calculate change
+2024-03-10 10:34:12 INFO  Financial:73 - Calculate change for CHF/EUR with amount 1000.0 = 1060.0
+2024-03-10 10:34:12 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:34:12 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:34:12 INFO  FinancialTest:63 - Test get available currencies
+2024-03-10 10:34:16 INFO  Financial:86 - Return available currencies in : 4001 ms
+2024-03-10 10:34:16 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:34:16 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:34:16 INFO  FinancialTest:36 - Test calculate average
+2024-03-10 10:34:16 DEBUG Financial:30 - Calculate Average with : [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+2024-03-10 10:34:16 DEBUG Financial:38 - Calculate Average in : 1 ms
+2024-03-10 10:34:16 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:34:16 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:34:16 INFO  FinancialTest:43 - Test calculate sum
+2024-03-10 10:34:16 INFO  Financial:53 - Calculate Sum with [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] = 55.0
+2024-03-10 10:34:16 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:34:16 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:34:16 INFO  FinancialTest:57 - Test calculate change with exception
+2024-03-10 10:34:16 WARN  Financial:69 - Currency rate not found for change CHF/JPY
+2024-03-10 10:34:16 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:48:48 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:48:48 INFO  FinancialTest:50 - Test calculate change
+2024-03-10 10:48:48 INFO  Financial:73 - Calculate change for CHF/EUR with amount 1000.0 = 1060.0
+2024-03-10 10:48:48 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:48:48 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:48:48 INFO  FinancialTest:63 - Test get available currencies
+2024-03-10 10:48:52 INFO  Financial:86 - Return available currencies in : 4002 ms
+2024-03-10 10:48:52 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:48:52 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:48:52 INFO  FinancialTest:36 - Test calculate average
+2024-03-10 10:48:52 DEBUG Financial:30 - Calculate Average with : [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+2024-03-10 10:48:52 DEBUG Financial:38 - Calculate Average in : 1 ms
+2024-03-10 10:48:52 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:48:52 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:48:52 INFO  FinancialTest:43 - Test calculate sum
+2024-03-10 10:48:52 INFO  Financial:53 - Calculate Sum with [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] = 55.0
+2024-03-10 10:48:52 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:48:52 INFO  FinancialTest:22 - Initialisation du test
+2024-03-10 10:48:52 INFO  FinancialTest:57 - Test calculate change with exception
+2024-03-10 10:48:52 WARN  Financial:69 - Currency rate not found for change CHF/JPY
+2024-03-10 10:48:52 INFO  FinancialTest:29 - Libération des resources
+2024-03-10 10:49:06 INFO  FinancialTestWithLombok:20 - Initialisation du test
+2024-03-10 10:49:06 INFO  FinancialTestWithLombok:48 - Test calculate change
+2024-03-10 10:49:06 INFO  Financial:73 - Calculate change for CHF/EUR with amount 1000.0 = 1060.0
+2024-03-10 10:49:06 INFO  FinancialTestWithLombok:27 - Libération des resources
+2024-03-10 10:49:06 INFO  FinancialTestWithLombok:20 - Initialisation du test
+2024-03-10 10:49:06 INFO  FinancialTestWithLombok:61 - Test get available currencies
+2024-03-10 10:49:10 INFO  Financial:86 - Return available currencies in : 4002 ms
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:27 - Libération des resources
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:20 - Initialisation du test
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:34 - Test calculate average
+2024-03-10 10:49:10 DEBUG Financial:30 - Calculate Average with : [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0]
+2024-03-10 10:49:10 DEBUG Financial:38 - Calculate Average in : 1 ms
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:27 - Libération des resources
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:20 - Initialisation du test
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:41 - Test calculate sum
+2024-03-10 10:49:10 INFO  Financial:53 - Calculate Sum with [1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0] = 55.0
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:27 - Libération des resources
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:20 - Initialisation du test
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:55 - Test calculate change with exception
+2024-03-10 10:49:10 WARN  Financial:69 - Currency rate not found for change CHF/JPY
+2024-03-10 10:49:10 INFO  FinancialTestWithLombok:27 - Libération des resources
